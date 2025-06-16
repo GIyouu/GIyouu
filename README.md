@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ✨ Believer in growth & purpose
 
 <br><h3 align="center">Hi 👋, I'm Yovana</h1>
-<h4 align="center">A passionate frontend developer and back end developer</h3><br>
+<h4 align="center">I am a student who is passionate about becoming a Full-Stack Developer. Currently learning web development and building real-world projects to sharpen my skills</h3><br>
 
 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<h4 align="left">Play  with me</h4>
+<h3 align="left">Play  with me</h3>
 
 ###
 
