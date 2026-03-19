@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ✨ Believer in growth & purpose
 
 <br><h3 align="center">Hi 👋, I'm Yovana</h1>
-<h4 align="center">I am a student who is passionate about becoming a Full-Stack Developer. Currently learning web development and building real-world projects to sharpen my skills</h3><br>
+<h4 align="center">I am a student who is passionate about becoming a Web Developer. Currently learning web development and building real-world projects to sharpen my skills</h3><br>
 
 
 
